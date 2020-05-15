@@ -51,7 +51,7 @@
 	linux,name = "white";
 	qcom,start-idx = <1>;
 	qcom,idx-len = <11>;
-	qcom,duty-pcts = [00 05 0a 0f 14 1d 28 32 3c 4b 64];
+	qcom,duty-pcts = [00 01 02 03 04 05 06 07];
 	qcom,lut-flags = <0x1f>;
 	qcom,pause-lo = <2000>;
 	qcom,pause-hi = <1000>;
